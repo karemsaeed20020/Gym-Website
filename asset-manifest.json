@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gym-Website/static/css/main.54ba7d9a.css",
+    "main.js": "/Gym-Website/static/js/main.1d6628f1.js",
+    "static/js/787.4bea7e5f.chunk.js": "/Gym-Website/static/js/787.4bea7e5f.chunk.js",
+    "index.html": "/Gym-Website/index.html",
+    "main.54ba7d9a.css.map": "/Gym-Website/static/css/main.54ba7d9a.css.map",
+    "main.1d6628f1.js.map": "/Gym-Website/static/js/main.1d6628f1.js.map",
+    "787.4bea7e5f.chunk.js.map": "/Gym-Website/static/js/787.4bea7e5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54ba7d9a.css",
+    "static/js/main.1d6628f1.js"
+  ]
+}
